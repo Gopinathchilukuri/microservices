@@ -16,7 +16,7 @@ public class HelloController {
         return "Application is running successfully.";
     }
     @RequestMapping(value = "/hello")
-    public String hello( HttpServletResponse response){
+    public String hello(){
        
         return  "Welcome to Billing microservice.";
     }	
