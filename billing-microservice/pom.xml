@@ -15,7 +15,6 @@
     <packaging>jar</packaging>
   <name>billing-microservice</name>
   <url>http://maven.apache.org</url>
- 
   <dependencies>
   	 <dependency>
             <groupId>org.springframework.boot</groupId>
