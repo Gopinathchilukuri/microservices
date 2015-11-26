@@ -1,0 +1,1 @@
+{"builders":{"configs":{},"default":"maven"},"mixinTypes":[],"runners":{"configs":{},"default":"project:/Spring%20Boot"},"type":"maven","attributes":{"languageVersion":["1.6"],"language":["java"]}}
